@@ -18,6 +18,7 @@ body{
    font-optical-sizing: auto;
    font-weight: normal;
    font-style: normal;
+   background: #231f20;
 }
 #canvas1{
    border: 3px solid #000000;
